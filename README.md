@@ -1,2 +1,0 @@
-# cogmo
-cogmo's page
